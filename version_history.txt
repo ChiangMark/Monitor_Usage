@@ -1,0 +1,6 @@
+2023-12-25: feat: monitor the cpu, gpu usage and plot it
+2023-12-28: feat: find the maximum value and based on the frame function to plot it
+2024-01-03: feat: let step value to be a variable
+2024-01-04: fix: update parameter "repeat" as true
+2024-01-05: fix: update parameter "interval=1000"
+2024-01-05: feat: add find the min value
