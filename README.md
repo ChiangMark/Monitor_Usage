@@ -13,7 +13,7 @@
 
 ![ResourceMonitor 結果範例](./images/final_plot.png)
 
-*圖示說明：*
+*Note：*
 - 第一個為 **CPU 使用率** 折線圖，展示每個核心的即時使用情況。
 - 第二個為 **GPU CUDA 使用率**，顯示當前 GPU 負載。
 - 第三個為 **GPU Memory 使用情況**，展示總記憶體與可用記憶體比例。
